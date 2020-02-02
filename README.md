@@ -29,3 +29,5 @@ rcon tv_enable 1
 
 
 LinuxGSM/lgsm/config-default/config-lgsm/csgoserver/_default.cfg
+
+https://webhostgb.com/billing/index.php/knowledgebase/4076/How-to-change-the-gamemode-of-the-csgo-server.html
