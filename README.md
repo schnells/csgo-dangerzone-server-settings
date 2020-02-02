@@ -26,3 +26,6 @@ rcon tv_enable 1
 — dz_jointeam N : Join squad #N (0 = none, valid squads range from 1 to 9).
 — dz_jointeam N : Server admins only – assign a player to a particular squad. Doesn’t require sv_dz_jointeam_allowed.
 – dz_jointeam only works during warmup. Use dz_clearteams / sv_dz_autojointeam 0 with care — all players must be assigned a valid squad when the game starts.
+
+
+LinuxGSM/lgsm/config-default/config-lgsm/csgoserver/_default.cfg
