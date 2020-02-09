@@ -12,6 +12,8 @@ rcon game_type 6; game_mode 0; changelevel dz_blacksite; sv_dz_team_count 2; sv_
 rcon spec_allow_roaming 1
 rcon tv_enable 1
 
+rcon cl_dz_playagain_auto_spectate 
+
  sv_dz_jointeam_allowed.
  
  rcon mp_warmup_end 
