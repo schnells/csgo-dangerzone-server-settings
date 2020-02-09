@@ -14,6 +14,10 @@ rcon tv_enable 1
 
  sv_dz_jointeam_allowed.
  
+ rcon mp_warmup_end 
+ 
+rcon mp_warmup_end
+ 
  
  [ COMMUNITY SERVERS ]
 – Added a setting “sv_prime_accounts_only”. When enabled, only prime accounts can connect to the game server.
