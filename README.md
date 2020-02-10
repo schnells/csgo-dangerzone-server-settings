@@ -14,6 +14,8 @@ rcon tv_enable 1
 
 rcon cl_dz_playagain_auto_spectate 
 
+https://www.tobyscs.com/csgo-danger-zone-console-commands/
+
  sv_dz_jointeam_allowed.
  
  rcon mp_warmup_end 
